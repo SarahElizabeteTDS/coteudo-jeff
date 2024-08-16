@@ -1,0 +1,30 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu
+{
+    height: 100px;
+    background-color: aliceblue;
+}
+.sidebar
+{
+    height: 300px;
+    width: 200px;
+    float: left;
+    background-color: antiquewhite;
+}
+.content
+{
+    width: 600px;
+    height: 500px;
+    float: left;
+    background-color: aqua;
+}
+.footer
+{
+    height: 200px;
+    background-color: aquamarine;
+}
